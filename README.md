@@ -1,9 +1,12 @@
-# hello-world
-This repository is for practicing the GitHub Flow
+# About me
 
 Hello World !
 My name is Code, Code From Moon. You can call me CFM or CFMOON too.
 I like programming and correcting code.
-My main knowledge (and favorite) is C langage, and i practicing Python. I used to code in Java too.
-I will not use AI, I like to "reinvent the wheel" when i develop new functionalities, at least for educational purpose.
+My main knowledge (and favorite) is C langage, and i practice Python. I used to code in Java too.
+For learning purpose, I will not use AI, I like to "reinvent the wheel" when i develop new functionalities.
 Later, I will learn this tool too.
+
+Everyone, good journey !!
+
+Code From Moon
